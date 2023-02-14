@@ -1,0 +1,1 @@
+hello guys this part we will talk about shell reduction
